@@ -43,16 +43,39 @@
 	font-size:13px;
 }
 
+/* CV STYLE */
 .am-cv {
+	width:80%;
 	margin: 0 auto;
 }
-
-.am-cv ul {
-	background-image: url() left no-repeat;
+.am-cv * {
 	margin: 0;
 	padding: 0;
 }
+.gp-cate {
+	margin: 10px 0 0 0;
+	border-top: #dfdfdf dotted;
+}
 
-.am-cv li {
-	list-style: none;
+.gp-cate > .title {
+	display:inline-block;
+	float:left;
+	width: 200px;
+	text-align:right;
+	text-transform:uppercase;
+	margin: 10px 20px 0 0;
+	font: normal bold 2.0em helvetica;
+	color: #8b110d;
+}
+.gp-cate .company {
+	display:inline-block;
+}
+.gp-cate li {
+	list-style-type: none;
+	margin:10px 0 10px 8px;
+	width:640px;
+}
+.gp-cate li .title {
+	font: normal bold 1.6em helvetica;
+	text-transform:uppercase;
 }
