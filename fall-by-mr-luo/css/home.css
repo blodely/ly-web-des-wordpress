@@ -1,0 +1,13 @@
+/**
+Author: Luo Yu
+Date: 2016-05-03 Tuesday
+*/
+
+.posted-on {
+	display: inline-block;
+	height: 20px;
+	margin: 0 0 0 13px;
+	padding: 0 0 0 17px;
+	background-image: url(../img/flag-down.png);
+	background-repeat: no-repeat;
+}

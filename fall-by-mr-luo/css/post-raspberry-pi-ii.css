@@ -1,0 +1,16 @@
+.ly-page {
+	width:100%;
+}
+.photoframe {
+	width:620px;
+	height:320px;
+	padding:10px 0 0 0;
+	background-color:#F9F9F9;
+}
+
+.photoitem {
+	width:600px;
+	height:300px;
+	margin:0 10px 10px 10px;
+	background-color:#8F8F8F;
+}

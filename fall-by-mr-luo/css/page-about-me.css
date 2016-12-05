@@ -1,0 +1,58 @@
+/*
+ * CREATE BY LUO YU
+ * EMAIL indie.luo@gmail.com
+ */
+
+.entry-content {
+	margin:0;
+	padding:0;
+}
+
+.content-area {
+	width:100%;
+}
+
+.am-profile {
+	width:100%;
+	background-color: #f3f3f3;
+	padding: 20px 0 0 0;
+}
+
+.avatar {
+	width:200px;
+	height:200px;
+	margin:0 auto;
+}
+
+.card {
+	color:#808080;
+	text-align:center;
+	font-family:georgia;
+}
+
+.card a {
+	text-decoration:none;
+	color:#808080;
+}
+
+.card .name {
+	font-size:16px;
+}
+
+.card .contact {
+	font-size:13px;
+}
+
+.am-cv {
+	margin: 0 auto;
+}
+
+.am-cv ul {
+	background-image: url() left no-repeat;
+	margin: 0;
+	padding: 0;
+}
+
+.am-cv li {
+	list-style: none;
+}
