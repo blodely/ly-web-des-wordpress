@@ -72,7 +72,7 @@
 	display:inline-block;
 }
 .gp-cate li {
-	list-style-type: none;
+	list-style: none;
 	margin:10px 0 10px 8px;
 	width:640px;
 }
