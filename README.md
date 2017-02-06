@@ -2,4 +2,10 @@
 
 Web designs for wordpress site.
 
-Created by Luo Yu, 2010.
+### Screenshot
+
+![Screenshot](fall-by-mr-luo/screenshot.png)
+
+### Author
+
+Created by [Luo Yu](http://luoyu.space), 2010.
