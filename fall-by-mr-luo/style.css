@@ -197,6 +197,14 @@ code {
 	font-size: 1em;
 }
 
+pre code {
+        background-color:#f3f3f3;
+	color:#5d5d5d;
+	border: none;
+	font-family: "Source Code Pro", "courier new", monospace;
+	font-size: 1em;
+}
+
 button,
 input,
 optgroup,
