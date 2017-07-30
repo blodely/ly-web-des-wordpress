@@ -19,7 +19,6 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico"/>
 <?php wp_head(); ?>
-<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261172731'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1261172731' type='text/javascript'%3E%3C/script%3E"));</script>
 </head>
 
 <body <?php body_class(); ?>>
