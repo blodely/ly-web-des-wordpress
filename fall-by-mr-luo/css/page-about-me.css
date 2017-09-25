@@ -68,7 +68,8 @@
 	font: normal bold 2.0em helvetica;
 	color: #8b110d;
 }
-.gp-cate .company {
+.gp-cate .company,
+.gp-cate .intro {
 	display:inline-block;
 }
 .gp-cate li {
