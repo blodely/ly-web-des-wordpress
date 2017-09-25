@@ -80,4 +80,8 @@
 	font: normal bold 1.6em helvetica;
 	text-transform:uppercase;
 }
+.gp-cate li .subtitle {
+	font: normal normal 1.1em helvetica;
+	text-transform: uppercase;
+}
 /* CV STYLE END */
