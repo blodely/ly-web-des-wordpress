@@ -76,12 +76,12 @@
 	margin:10px 0 10px 8px;
 	width:640px;
 }
-.gp-cate li .title,
-.gp-cate li .subtitle {
+.gp-cate li .title {
 	font: normal bold 1.6em helvetica;
 	text-transform:uppercase;
 }
-.gp-cate ul li .subtitle {
-	font-size: 1.2em;
+.gp-cate li .subtitle {
+	font: normal bold 1.3em helvetica;
+	text-transform:uppercase;
 }
 /* CV STYLE END */
