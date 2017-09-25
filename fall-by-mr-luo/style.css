@@ -444,6 +444,10 @@ img {
 	max-width: 100%; /* Adhere to container width. */
 }
 
+artical p img {
+	max-width: 620px;
+}
+
 table {
 	margin: 0 0 1.5em;
 	width: 100%;
